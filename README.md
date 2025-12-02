@@ -1,1 +1,1 @@
-# Smart-Cyberbullying-Detector
+# Cyberbullying Detection Using Python & Machine Learning
